@@ -1,0 +1,19 @@
+{
+  "name": "facebook-oauth-agent",
+  "version": "1.0.0",
+  "description": "Dead simple, low-level agent for authenticating with Facebook's oAuth",
+  "keywords": ["oauth", "facebook", "simple"],
+  "author": "Matthew Mueller <matt@lapwinglabs.com>",
+  "main": "lib/server.js",
+  "browser": "lib/client.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LapwingLabs/facebook-oauth-agent.git"
+  },
+  "dependencies": {
+    "oauth-open": "^1.0.2",
+    "object-assign": "^3.0.0",
+    "querystring": "^0.2.0",
+    "superagent": "^1.2.0"
+  }
+}
