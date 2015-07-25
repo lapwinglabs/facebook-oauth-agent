@@ -58,7 +58,7 @@ npm install facebook-oauth-agent
 
 ## See also:
 
-- [facebook-oauth-agent](https://github.com/lapwinglabs/facebook-oauth-agent)
+- [google-oauth-agent](https://github.com/lapwinglabs/google-oauth-agent)
 - [linkedin-oauth-agent](https://github.com/lapwinglabs/linkedin-oauth-agent)
 - [twitter-oauth-agent](https://github.com/lapwinglabs/twitter-oauth-agent)
 
