@@ -1,8 +1,12 @@
 {
   "name": "facebook-oauth-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple, low-level agent for authenticating with Facebook's oAuth",
-  "keywords": ["oauth", "facebook", "simple"],
+  "keywords": [
+    "oauth",
+    "facebook",
+    "simple"
+  ],
   "author": "Matthew Mueller <matt@lapwinglabs.com>",
   "main": "lib/server.js",
   "browser": "lib/client.js",
