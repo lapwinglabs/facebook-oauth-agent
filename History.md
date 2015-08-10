@@ -1,4 +1,9 @@
 
+1.0.2 / 2015-08-10
+==================
+
+  * send access_token and details along with profile (@abpai)
+
 1.0.1 / 2015-08-02
 ==================
 
