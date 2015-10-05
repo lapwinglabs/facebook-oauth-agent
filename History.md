@@ -1,4 +1,9 @@
 
+1.0.3 / 2015-10-05
+==================
+
+  * updates to client and server for '/' issue and to use the exact requesting url by default
+
 1.0.2 / 2015-08-10
 ==================
 
